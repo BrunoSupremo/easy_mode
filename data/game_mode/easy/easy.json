@@ -17,7 +17,7 @@
    },
    "encounter_tuning_overrides": {
       "default": {
-         "generator_delay_modifier": 1.5
+         "generator_delay_modifier": 1.25
       },
       "very_easy_raids": {
          "can_start": {

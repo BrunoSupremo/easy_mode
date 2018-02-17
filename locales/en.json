@@ -5,7 +5,7 @@
             "game_modes": {
                "easy": {
                   "display_name": "Easy",
-                  "description": "Monsters appear less often, and they are a bit easier. You town will grow at a nice pace.",
+                  "description": "Monsters appear less often, and they are a bit easier. Your town will grow at a nice pace.",
                   "post_selection_text": "a nice place to start anew."
                }
             }
