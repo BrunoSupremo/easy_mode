@@ -1,0 +1,25 @@
+{
+	"ui": {
+		"shell": {
+			"select_game_story": {
+				"game_modes": {
+					"easy": {
+						"display_name": "Fácil",
+						"description": "Monstros aparecerão bem menos, e serão mais fracos. Sua vila irá crescer com um bom ritmo.",
+						"post_selection_text": "um bom lugar pra começar."
+					}
+				}
+			}
+		}
+	},
+	"data": {
+		"buffs": {
+			"game_modes": {
+				"game_mode_easy_buff": {
+					"display_name": "Modo Fácil",
+					"description": "No Modo Fácil, inimigos tem menos defesa e vida e causarão menos danos."
+				}
+			}
+		}
+	}
+}

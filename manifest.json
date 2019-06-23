@@ -1,7 +1,9 @@
 {
 	"info" : {
-		"name" : "easy_mode",
-		"version" : 3
+		"name" : "Easy Mode Difficult",
+		"namespace" : "easy_mode",
+		"version" : 3,
+		"steam_file_id" : "1359618384"
 	},
 	"default_locale": "en",
 	"aliases": {
@@ -9,6 +11,8 @@
 		"game_mode:easy":"file(data/game_mode/easy/easy.json)"
 	},
 	"mixintos" :  {
+		"tower_defense/manifest.json": "file(tower_defense_manifest.json)",
+		"tower_defense/data/compatible_mods.json": "file(data/compatible_mods.json)",
 		"stonehearth:game_mode:index": "file(data/game_mode/index.json)"
 	}
 }

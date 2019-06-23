@@ -1,0 +1,5 @@
+{
+	"mixintos": {
+		"stonehearth:game_mode:index": "easy_mode/data/game_mode/tower_defense_index.json"
+	}
+}
